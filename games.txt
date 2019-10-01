@@ -1,0 +1,5 @@
+# game name, minimum number of players, maximum number of players
+Betrayal at House on The Hill, 3, 6
+Bang!, 4, 7
+Telestrations, 5, 8
+Coup, 2, 6
